@@ -1,0 +1,6 @@
+numpy
+tensorflow
+scipy
+matplotlib
+urllib
+os
